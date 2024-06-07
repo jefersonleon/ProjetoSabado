@@ -90,11 +90,9 @@ __Inventar um logotipo para o jornal (Se desejar use o site Canva) e caso queira
 ## Como Clonar:
 
 ```bash
-git clone https://github.com/usuario/repositorio.git
+git clone https://github.com/jefersonleon/ProjetoSabado
 
 ```
-
-
 
 ## Estrutura de Arquivos
 
